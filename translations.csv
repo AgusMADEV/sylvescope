@@ -1,14 +1,14 @@
 key,english,spanish,french,german
-login_page_title,Login - DeepPink Dashboard,Iniciar sesión - DeepPink Dashboard,Connexion - DeepPink Dashboard,Anmelden - DeepPink Dashboard
+login_page_title,Login - SylveScope Dashboard,Iniciar sesión - SylveScope Dashboard,Connexion - SylveScope Dashboard,Anmelden - SylveScope Dashboard
 login_title,Login,Iniciar sesión,Connexion,Anmelden
 username_placeholder,Username,Nombre de usuario,Nom d'utilisateur,Benutzername
 password_placeholder,Password,Contraseña,Mot de passe,Passwort
 select_language,Select Language,Selecciona idioma,Sélectionner la langue,Sprache wählen
 login_button,Login,Iniciar sesión,Connexion,Anmelden
 invalid_credentials,Invalid credentials!,¡Credenciales inválidas!,Identifiants invalides!,Ungültige Anmeldeinformationen!
-dashboard_title,DeepPink Dashboard,DeepPink Dashboard,DeepPink Dashboard,DeepPink Dashboard
+dashboard_title,SylveScope Dashboard,SylveScope Dashboard,SylveScope Dashboard,SylveScope Dashboard
 welcome_message,Corporate Information,Información Corporativa,Informations d'entreprise,Unternehmensinformationen
-dashboard_subtitle,DeepPink Dashboard – Manage Your Reports,DeepPink Dashboard – Gestiona tus informes,DeepPink Dashboard – Gérez vos rapports,DeepPink Dashboard – Berichte verwalten
+dashboard_subtitle,SylveScope Dashboard – Manage Your Reports,SylveScope Dashboard – Gestiona tus informes,SylveScope Dashboard – Gérez vos rapports,SylveScope Dashboard – Berichte verwalten
 logout,Logout,Cerrar sesión,Déconnexion,Abmelden
 create_report,Create New Report,Crear nuevo informe,Créer un nouveau rapport,Neuen Bericht erstellen
 view_reports,View Reports,Ver informes,Voir les rapports,Berichte anzeigen
