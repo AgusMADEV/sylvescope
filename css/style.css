@@ -67,7 +67,7 @@ input[type="url"]:focus {
 input[type="submit"] {
   padding: 10px 20px;
   border: none;
-  background-color: #007BFF;
+  background-color: #ffe100;
   color: #fff;
   border-radius: 4px;
   cursor: pointer;
