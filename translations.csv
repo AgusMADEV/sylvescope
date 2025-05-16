@@ -7,7 +7,7 @@ select_language,Select Language,Selecciona idioma,Sélectionner la langue,Sprach
 login_button,Login,Iniciar sesión,Connexion,Anmelden
 invalid_credentials,Invalid credentials!,¡Credenciales inválidas!,Identifiants invalides!,Ungültige Anmeldeinformationen!
 dashboard_title,SylveScope Dashboard,SylveScope Dashboard,SylveScope Dashboard,SylveScope Dashboard
-welcome_message,Corporate Information,Información Corporativa,Informations d'entreprise,Unternehmensinformationen
+welcome_message,SylverScope - agusmadev, SylverScope - agusmadev,SylverScope - agusmadev,SylverScope - agusmadev
 dashboard_subtitle,SylveScope Dashboard – Manage Your Reports,SylveScope Dashboard – Gestiona tus informes,SylveScope Dashboard – Gérez vos rapports,SylveScope Dashboard – Berichte verwalten
 logout,Logout,Cerrar sesión,Déconnexion,Abmelden
 create_report,Create New Report,Crear nuevo informe,Créer un nouveau rapport,Neuen Bericht erstellen
